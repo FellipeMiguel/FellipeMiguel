@@ -28,9 +28,9 @@
 
 Sou um desenvolvedor iniciante <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> aprendendo sobre desenvolvimento web.
 
-- 👀 O meu interesse é de trabalhar com front end
+- 👀: O meu interesse é de trabalhar com front end
 - 🖥️: Estou aprendendo JavaScript
 - 💻: Quero desevolver as minhas habilidades em desenvolvimento web
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-C5C6C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
 
 
