@@ -48,7 +48,14 @@ Sou um desenvolvedor iniciante <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :fire: Meus status :
 
+<div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FellipeMiguel&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeMiguel)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeMiguel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
 
 
