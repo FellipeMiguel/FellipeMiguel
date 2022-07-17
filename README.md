@@ -31,8 +31,6 @@ Sou um desenvolvedor iniciante <img src="https://media.giphy.com/media/WUlplcMpO
 - 👀 O meu interesse é de trabalhar com front end
 - 🖥️: Estou aprendendo JavaScript
 - 💻: Quero desevolver as minhas habilidades em desenvolvimento web
-- 📫 How to reach me <a href="https://www.instagram.com/felmiguel/">
-    <img src="https://img.shields.io/badge/Instagram-FABFB7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-C5C6C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
 
 
