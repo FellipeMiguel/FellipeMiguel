@@ -21,3 +21,18 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### 👨‍💻: Sobre mim :
+
+Sou um desenvolvedor iniciante <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> aprendendo sobre desenvolvimento web.
+
+- 👀 O meu interesse é de trabalhar com front end
+- 🖥️: Estou aprendendo JavaScript
+- 💻: Quero desevolver as minhas habilidades em desenvolvimento web
+- 📫 How to reach me <a href="https://www.instagram.com/felmiguel/">
+    <img src="https://img.shields.io/badge/Instagram-FABFB7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+
