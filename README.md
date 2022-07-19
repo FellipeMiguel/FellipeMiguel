@@ -29,11 +29,11 @@
 Sou um desenvolvedor iniciante <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> aprendendo sobre desenvolvimento web.
 
 - 👀: O meu interesse é de trabalhar com front end
-- 🖥️: Estou aprendendo JavaScript
+- 🖥️: Estou aprendendo Desenvolvimento Web
 - 💻: Quero desevolver as minhas habilidades em desenvolvimento web
 - 📫: Entre em contato [![Linkedin Badge](https://img.shields.io/badge/-Fellipe-C5C6C8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
 
-### :hammer_and_wrench: Linguagens e ferramentas :
+### :hammer_and_wrench: Linguagens e ferramentas que estou aprendendo:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
