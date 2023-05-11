@@ -26,20 +26,22 @@
 
 ### 👨‍💻: Sobre mim :
 
-Sou um desenvolvedor iniciante <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> aprendendo sobre desenvolvimento web.
+Sou um desenvolvedor de software com 2 anos de experiência em desenvolvimento web e móvel. Tenho experiência em trabalhar em equipes ágeis, com habilidades em comunicação e colaboração. Minha experiência inclui o desenvolvimento de aplicativos com JavaScript, React, HTML, CSS e outras tecnologias relacionadas. Sou apaixonado por escrever código limpo, eficiente e escalável. Além disso, estou sempre procurando novas tecnologias e ferramentas para melhorar minha eficiência e qualidade de trabalho. Estou animado para continuar aprendendo e contribuindo para projetos desafiadores e interessantes.
 
 - 👀: O meu interesse é de trabalhar com front end
 - 🖥️: Estou aprendendo Desenvolvimento Web
 - 💻: Quero desevolver as minhas habilidades em desenvolvimento web
 - 📫: Entre em contato [![Linkedin Badge](https://img.shields.io/badge/-Fellipe-C5C6C8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
 
-### :hammer_and_wrench: Linguagens e ferramentas que estou aprendendo:
+### :hammer_and_wrench: Linguagens e ferramentas que estou estudando:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: Meus status :
