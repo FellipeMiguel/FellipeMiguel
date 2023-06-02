@@ -29,7 +29,7 @@
 Sou um desenvolvedor de software com 2 anos de experiência em desenvolvimento web e móvel. Tenho experiência em trabalhar em equipes ágeis, com habilidades em comunicação e colaboração. Minha experiência inclui o desenvolvimento de aplicativos com JavaScript, React, HTML, CSS e outras tecnologias relacionadas. Sou apaixonado por escrever código limpo, eficiente e escalável. Além disso, estou sempre procurando novas tecnologias e ferramentas para melhorar minha eficiência e qualidade de trabalho. Estou animado para continuar aprendendo e contribuindo para projetos desafiadores e interessantes.
 
 - 👀: O meu interesse é de trabalhar com front end
-- 🖥️: Estou aprendendo Desenvolvimento Web
+- 🖥️: Estou aprendendo Backend com nodejs
 - 💻: Quero desevolver as minhas habilidades em desenvolvimento web
 - 📫: Entre em contato [![Linkedin Badge](https://img.shields.io/badge/-Fellipe-C5C6C8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
 
@@ -42,6 +42,7 @@ Sou um desenvolvedor de software com 2 anos de experiência em desenvolvimento w
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: Meus status :
