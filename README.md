@@ -26,7 +26,7 @@
 
 ### 👨‍💻: Sobre mim :
 
-Sou um desenvolvedor de software com 2 anos de experiência em desenvolvimento web e móvel. Tenho experiência em trabalhar em equipes ágeis, com habilidades em comunicação e colaboração. Minha experiência inclui o desenvolvimento de aplicativos com JavaScript, React, HTML, CSS e outras tecnologias relacionadas. Sou apaixonado por escrever código limpo, eficiente e escalável. Além disso, estou sempre procurando novas tecnologias e ferramentas para melhorar minha eficiência e qualidade de trabalho. Estou animado para continuar aprendendo e contribuindo para projetos desafiadores e interessantes.
+Sou um desenvolvedor de software com experiência em desenvolvimento web e móvel. Tenho experiência em trabalhar em equipes ágeis, com habilidades em comunicação e colaboração. Minha experiência inclui o desenvolvimento de aplicativos com JavaScript, React, HTML, CSS e outras tecnologias relacionadas. Sou apaixonado por escrever código limpo, eficiente e escalável. Além disso, estou sempre procurando novas tecnologias e ferramentas para melhorar minha eficiência e qualidade de trabalho. Estou animado para continuar aprendendo e contribuindo para projetos desafiadores e interessantes.
 
 - 👀: O meu interesse é de trabalhar com front end
 - 🖥️: Estou aprendendo Backend com nodejs
