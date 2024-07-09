@@ -33,7 +33,7 @@ Sou um desenvolvedor de software com experiência em desenvolvimento web e móve
 - 💻: Quero desevolver as minhas habilidades em desenvolvimento web
 - 📫: Entre em contato [![Linkedin Badge](https://img.shields.io/badge/-Fellipe-C5C6C8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
 
-### :hammer_and_wrench: Linguagens e ferramentas que estou estudando:
+### :hammer_and_wrench: Linguagens e ferramentas que Utilizo:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
