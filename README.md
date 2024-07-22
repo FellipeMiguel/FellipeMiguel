@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=FellipeMiguel&style=flat-square&color=blue" alt=""/>
   <h1>
-  E aí!
+  Hey!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -24,16 +24,16 @@
 
 ---
 
-### 👨‍💻: Sobre mim :
+### 👨‍💻: About me:
 
-Sou um desenvolvedor de software com experiência em desenvolvimento web e móvel. Tenho experiência em trabalhar em equipes ágeis, com habilidades em comunicação e colaboração. Minha experiência inclui o desenvolvimento de aplicativos com JavaScript, React, HTML, CSS e outras tecnologias relacionadas. Sou apaixonado por escrever código limpo, eficiente e escalável. Além disso, estou sempre procurando novas tecnologias e ferramentas para melhorar minha eficiência e qualidade de trabalho. Estou animado para continuar aprendendo e contribuindo para projetos desafiadores e interessantes.
+I am a software developer with experience in web and mobile development. I have worked in agile teams, possessing strong communication and collaboration skills. My expertise includes building applications using JavaScript, React, HTML, CSS, and related technologies. I am passionate about writing clean, efficient, and scalable code. Additionally, I am always eager to explore new technologies and tools to enhance my productivity and work quality. I’m excited to keep learning and contribute to challenging and interesting projects.
 
-- 👀: O meu interesse é de trabalhar com front end
-- 🖥️: Estou aprendendo Backend com nodejs
-- 💻: Quero desevolver as minhas habilidades em desenvolvimento web
-- 📫: Entre em contato [![Linkedin Badge](https://img.shields.io/badge/-Fellipe-C5C6C8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
+- 👀: I`m a Front-End Developer
+- 🖥️: I`m learning nodejs
+- 💻: I wanna improve my skills in web development
+- 📫: Contact me [![Linkedin Badge](https://img.shields.io/badge/-Fellipe-C5C6C8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-m-dino-275309181/)
 
-### :hammer_and_wrench: Linguagens e ferramentas que Utilizo:
+### :hammer_and_wrench: Languages and tools I use:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -53,7 +53,7 @@ Sou um desenvolvedor de software com experiência em desenvolvimento web e móve
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: Meus status :
+### :fire: My status :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FellipeMiguel&theme=dark&background=000000)](https://git.io/streak-stats)
 </br>
